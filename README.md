@@ -6,17 +6,17 @@ Bot otomatis untuk mempromosikan produk Shopee Affiliate ke berbagai platform me
 > - ✅ **AI Caption Generator** dengan OpenCode (Qwen3.6 Plus)
 > - ✅ **Video Posting** ke Facebook, Pinterest, Telegram, Threads
 > - ✅ **Token Manager** untuk auto-refresh Facebook & Threads token
-> - ❌ **Twitter/X** dinonaktifkan (API access revoked)
+> - ❌ **Twitter/X** dinonaktifkan (silakan aktifkan jika perlu)
 
 ## Status Platform
 
-| Platform | Status | Akun/Page |
-|----------|--------|-----------|
-| **Facebook** | ✅ Jalan | `Racun Diskon Shopee` |
-| **Pinterest** | ✅ Jalan | `sylvietenx` - Board: `Racun Shopee` |
-| **Telegram** | ✅ Jalan | `@RacunBelanjaMurah_bot` |
-| **Threads** | ✅ Jalan | `@datadreamsy` |
-| **Twitter/X** | ❌ Dinonaktifkan | API access revoked |
+| Platform | Status | 
+|----------|--------|
+| **Facebook** | ✅ Jalan | 
+| **Pinterest** | ✅ Jalan | 
+| **Telegram** | ✅ Jalan |
+| **Threads** | ✅ Jalan |
+| **Twitter/X** | ❌ Dinonaktifkan (silakan aktifkan jika perlu) |
 
 ## Fitur
 
@@ -25,7 +25,7 @@ Bot otomatis untuk mempromosikan produk Shopee Affiliate ke berbagai platform me
 - **Pinterest**: Auto pin dengan deskripsi dan hashtag otomatis (image + video)
 - **Telegram**: Auto posting ke channel Telegram (text + image + video)
 - **Threads**: Auto posting ke Threads (text + image + video)
-- **Twitter/X**: ❌ Dinonaktifkan sementara
+- **Twitter/X**: ❌ Dinonaktifkan sementara (silakan aktifkan jika perlu) 
 
 ### AI Caption Generator
 - Generate caption otomatis menggunakan **OpenCode API** dengan model **Qwen3.6 Plus**
@@ -422,7 +422,7 @@ OPENAI_API_BASE=https://opencode.ai/zen/go/v1
 - ✅ Video posting ke semua platform (Facebook, Pinterest, Telegram, Threads)
 - ✅ Token Manager untuk auto-refresh token
 - ✅ Makefile untuk perintah cepat
-- ❌ Nonaktifkan Twitter/X (API access revoked)
+- ❌ Nonaktifkan Twitter/X (silakan aktifkan jika perlu)
 
 ### v1.0
 - Auto posting ke Twitter, Facebook, Pinterest, Telegram

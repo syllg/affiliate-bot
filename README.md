@@ -1,7 +1,6 @@
 # Auto Affiliate Bot
 
-Bot otomatis untuk mempromosikan produk Shopee Affiliate ke berbagai platform media sosial (Facebook, Pinterest, Telegram, Threads). Bot membaca data produk dan konfigurasi akun dari **Google Sheets**, jadi kamu tidak perlu repot setup database MySQL.
-
+Bot otomatis untuk mempromosikan produk Shopee Affiliate ke berbagai platform media sosial (Facebook, Pinterest, Telegram, Threads). Bot membaca data produk dan konfigurasi akun dari **Google Sheets**
 > **Update Terbaru**: 
 > - ✅ **Threads** ditambahkan sebagai platform baru
 > - ✅ **AI Caption Generator** dengan OpenCode (Qwen3.6 Plus)

@@ -1,0 +1,13 @@
+requests
+oauthlib
+pandas
+Pillow
+requests-oauthlib
+schedule
+tweepy
+websocket-client
+py3-pinterest
+gspread
+google-auth
+python-dotenv
+python-decouple

@@ -1,0 +1,11 @@
+name,is_active,set_time
+autoposting,1,30
+autoRetweetNonEleved,1,60
+autoRepostNonEleved,1,120
+autopostingAkunBackUp,1,45
+autopostingTrendingTopik,1,90
+postingVideo,1,60
+posting,0,30
+autoPostingTelegram,1,30
+autoPostingPinterest,1,60
+autoPostingFacebook,1,45
